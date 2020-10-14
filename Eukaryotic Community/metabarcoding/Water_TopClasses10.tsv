@@ -1,0 +1,343 @@
+kingdom	supergroup	division	class	salp_water	n_reads	n_reads_water	n_reads_pct
+Eukaryota	Alveolata	Alveolata_X	Other	Coastal SA_Salps	3	317151	9.459216587682209e-4
+Eukaryota	Alveolata	Alveolata_X	Other	SA_Non-Salps	30	387643	0.007739079513882619
+Eukaryota	Alveolata	Alveolata_X	Other	SA_Salps	99	422943	0.023407409509082783
+Eukaryota	Alveolata	Alveolata_X	Other	ST_Non-Salps	22	422908	0.005202077047490234
+Eukaryota	Alveolata	Alveolata_X	Other	ST_Salps	46	387650	0.01186637430671998
+Eukaryota	Alveolata	Apicomplexa	Other	Coastal SA_Salps	11	317151	0.0034683794154834763
+Eukaryota	Alveolata	Apicomplexa	Other	ST_Non-Salps	34	422908	0.008039573618848543
+Eukaryota	Alveolata	Apicomplexa	Other	ST_Salps	51	387650	0.013156197600928673
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	657	317151	0.20715684327024037
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	70	387643	0.018057852199059445
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	6	422908	0.0014187482856791549
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	99	387650	0.02553850122533213
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	382	317151	0.12044735788315346
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	246	387643	0.06346045201383747
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	257	422943	0.060764689331659356
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	501	422908	0.11846548185420942
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	2228	387650	0.5747452598993938
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	52	317151	0.01639597541864916
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	37	422943	0.008748223755919828
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	33	317151	0.010405138246450429
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	2	387643	5.159386342588413e-4
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	27	422943	0.006383838957022578
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	2	422908	4.729160952263849e-4
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	72	317151	0.0227021198104373
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	50	387643	0.01289846585647103
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	28	422943	0.006620277436912302
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	20	422908	0.00472916095226385
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	13	387650	0.0033535405649426026
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	989	317151	0.31183884017392344
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	2830	387643	0.7300531674762604
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	1154	422943	0.27285000579274277
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	486	422908	0.11491861114001155
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	1645	387650	0.42435186379466017
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	111	317151	0.03499910137442417
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	29	387643	0.007481110196753198
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	80	422943	0.01891507839117801
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	445	422908	0.10522383118787065
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	114	387650	0.02940797110795821
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	201	317151	0.0633767511374708
+Eukaryota	Alveolata	Ciliophora	Other	SA_Non-Salps	1159	387643	0.2989864385529985
+Eukaryota	Alveolata	Ciliophora	Other	SA_Salps	203	422943	0.04799701141761419
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	525	422908	0.12414047499692606
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	617	387650	0.15916419450535277
+Eukaryota	Alveolata	Ciliophora	Other	Coastal SA_Salps	89	317151	0.02806234254345722
+Eukaryota	Alveolata	Ciliophora	Other	ST_Non-Salps	7	422908	0.0016552063332923473
+Eukaryota	Alveolata	Ciliophora	Other	ST_Salps	89	387650	0.022958854636914744
+Eukaryota	Alveolata	Ciliophora	Spirotrichea	Coastal SA_Salps	14319	317151	4.514884077300718
+Eukaryota	Alveolata	Ciliophora	Spirotrichea	SA_Non-Salps	11468	387643	2.9583921288401958
+Eukaryota	Alveolata	Ciliophora	Spirotrichea	SA_Salps	19023	422943	4.49776920294224
+Eukaryota	Alveolata	Ciliophora	Spirotrichea	ST_Non-Salps	12961	422908	3.0647327551145875
+Eukaryota	Alveolata	Ciliophora	Spirotrichea	ST_Salps	19858	387650	5.122662195279247
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	Coastal SA_Salps	89914	317151	28.35053334216194
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	SA_Non-Salps	137167	387643	35.38487732269124
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	SA_Salps	130919	422943	30.954289348682916
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	ST_Non-Salps	151280	422908	35.77137344292375
+Eukaryota	Alveolata	Dinoflagellata	Dinophyceae	ST_Salps	148291	387650	38.25383722430027
+Eukaryota	Alveolata	Dinoflagellata	Other	Coastal SA_Salps	269	317151	0.08481764206955046
+Eukaryota	Alveolata	Dinoflagellata	Other	SA_Non-Salps	2	387643	5.159386342588413e-4
+Eukaryota	Alveolata	Dinoflagellata	Other	SA_Salps	160	422943	0.03783015678235602
+Eukaryota	Alveolata	Dinoflagellata	Other	ST_Non-Salps	42	422908	0.009931237999754084
+Eukaryota	Alveolata	Dinoflagellata	Other	ST_Salps	14	387650	0.0036115052237843414
+Eukaryota	Alveolata	Dinoflagellata	Other	Coastal SA_Salps	142	317151	0.04477362518169579
+Eukaryota	Alveolata	Dinoflagellata	Other	SA_Non-Salps	9	387643	0.0023217238541647857
+Eukaryota	Alveolata	Dinoflagellata	Other	SA_Salps	380	422943	0.08984662235809554
+Eukaryota	Alveolata	Dinoflagellata	Other	ST_Non-Salps	60	422908	0.014187482856791549
+Eukaryota	Alveolata	Dinoflagellata	Other	ST_Salps	650	387650	0.16767702824713016
+Eukaryota	Alveolata	Dinoflagellata	Syndiniales	Coastal SA_Salps	47289	317151	14.910563107163465
+Eukaryota	Alveolata	Dinoflagellata	Syndiniales	SA_Non-Salps	107215	387643	27.65818033603083
+Eukaryota	Alveolata	Dinoflagellata	Syndiniales	SA_Salps	77075	422943	18.22349583750056
+Eukaryota	Alveolata	Dinoflagellata	Syndiniales	ST_Non-Salps	125641	422908	29.708825560169117
+Eukaryota	Alveolata	Dinoflagellata	Syndiniales	ST_Salps	96255	387650	24.830388236811558
+Eukaryota	Amoebozoa	Lobosa	Other	SA_Non-Salps	96	387643	0.024765054444424377
+Eukaryota	Apusozoa	Apusomonadidae	Other	SA_Non-Salps	46	387643	0.011866588587953348
+Eukaryota	Apusozoa	Apusomonadidae	Other	SA_Salps	12	422943	0.002837261758676701
+Eukaryota	Apusozoa	Apusomonadidae	Other	ST_Non-Salps	21	422908	0.004965618999877042
+Eukaryota	Apusozoa	Apusomonadidae	Other	ST_Salps	67	387650	0.01728363214239649
+Eukaryota	Apusozoa	Hilomonadea	Other	SA_Non-Salps	36	387643	0.009286895416659143
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	6	387643	0.0015478159027765236
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	2	422908	4.729160952263849e-4
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	9	317151	0.0028377649763046625
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	5	387643	0.0012898465856471032
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	6	317151	0.0018918433175364418
+Eukaryota	Archaeplastida	Chlorophyta	Chloropicophyceae	Coastal SA_Salps	1484	317151	0.46791591387067993
+Eukaryota	Archaeplastida	Chlorophyta	Chloropicophyceae	SA_Non-Salps	9778	387643	2.5224239828914747
+Eukaryota	Archaeplastida	Chlorophyta	Chloropicophyceae	SA_Salps	21136	422943	4.99736371094923
+Eukaryota	Archaeplastida	Chlorophyta	Chloropicophyceae	ST_Non-Salps	303	422908	0.07164678842679732
+Eukaryota	Archaeplastida	Chlorophyta	Chloropicophyceae	ST_Salps	98	387650	0.02528053656649039
+Eukaryota	Archaeplastida	Chlorophyta	Mamiellophyceae	Coastal SA_Salps	64219	317151	20.248714334812124
+Eukaryota	Archaeplastida	Chlorophyta	Mamiellophyceae	SA_Non-Salps	21008	387643	5.419419414254868
+Eukaryota	Archaeplastida	Chlorophyta	Mamiellophyceae	SA_Salps	17281	422943	4.08589337097434
+Eukaryota	Archaeplastida	Chlorophyta	Mamiellophyceae	ST_Non-Salps	26156	422908	6.184796693370663
+Eukaryota	Archaeplastida	Chlorophyta	Mamiellophyceae	ST_Salps	32498	387650	8.383335483038824
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	6	422908	0.0014187482856791549
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	517	317151	0.1630138325277234
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	614	387643	0.15839316071746426
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Salps	1020	422943	0.2411672494875196
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	89	422908	0.02104476623757413
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Salps	91	387650	0.02347478395459822
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	17	317151	0.005360222733019918
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	5	387643	0.0012898465856471032
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	1154	422908	0.2728725869456241
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Salps	251	387650	0.0647491293692764
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	31	317151	0.009774523807271616
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	109	387643	0.028118655567106847
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	26	422908	0.006147909237943005
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Salps	571	387650	0.14729782019863277
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	14	317151	0.0044143010742516975
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Salps	479	422943	0.11325403186717832
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	2740	422908	0.6478950504601473
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Salps	945	387650	0.24377660260544304
+Eukaryota	Archaeplastida	Chlorophyta	Other	Coastal SA_Salps	65	317151	0.02049496927331145
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Non-Salps	227	387643	0.05855903498837848
+Eukaryota	Archaeplastida	Chlorophyta	Other	SA_Salps	159	422943	0.037593718302466286
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Non-Salps	879	422908	0.20784662385199618
+Eukaryota	Archaeplastida	Chlorophyta	Other	ST_Salps	128	387650	0.03301947633174255
+Eukaryota	Hacrobia	Centroheliozoa	Other	Coastal SA_Salps	28	317151	0.008828602148503395
+Eukaryota	Hacrobia	Centroheliozoa	Other	SA_Non-Salps	50	387643	0.01289846585647103
+Eukaryota	Hacrobia	Centroheliozoa	Other	SA_Salps	275	422943	0.0650205819696744
+Eukaryota	Hacrobia	Centroheliozoa	Other	ST_Non-Salps	17	422908	0.0040197868094242716
+Eukaryota	Hacrobia	Centroheliozoa	Other	ST_Salps	40	387650	0.010318586353669548
+Eukaryota	Hacrobia	Cryptophyta	Other	Coastal SA_Salps	2248	317151	0.7088106296369868
+Eukaryota	Hacrobia	Cryptophyta	Other	SA_Non-Salps	2767	387643	0.7138011004971069
+Eukaryota	Hacrobia	Cryptophyta	Other	SA_Salps	956	422943	0.22603518677457718
+Eukaryota	Hacrobia	Cryptophyta	Other	ST_Non-Salps	7983	422908	1.8876445940961155
+Eukaryota	Hacrobia	Cryptophyta	Other	ST_Salps	3426	387650	0.8837869211917968
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Salps	3	387650	7.738939765252159e-4
+Eukaryota	Hacrobia	Haptophyta	Other	Coastal SA_Salps	1506	317151	0.4748526727016468
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Non-Salps	3940	387643	1.0163991094899172
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Salps	638	422943	0.1508477501696446
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Non-Salps	740	422908	0.17497895523376242
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Salps	1726	387650	0.445247001160841
+Eukaryota	Hacrobia	Haptophyta	Other	Coastal SA_Salps	25	317151	0.007882680489735174
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Non-Salps	24	387643	0.006191263611106094
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Salps	55	422943	0.013004116393934879
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Non-Salps	139	422908	0.03286766861823375
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Salps	26	387650	0.006707081129885205
+Eukaryota	Hacrobia	Haptophyta	Other	Coastal SA_Salps	223	317151	0.07031350996843774
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Non-Salps	1558	387643	0.40191619608763735
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Salps	92	422943	0.02175234014985471
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Non-Salps	312	422908	0.07377491085531605
+Eukaryota	Hacrobia	Haptophyta	Other	Coastal SA_Salps	310	317151	0.09774523807271615
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Non-Salps	43	387643	0.011092680636565088
+Eukaryota	Hacrobia	Haptophyta	Other	SA_Salps	204	422943	0.048233449897503916
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Non-Salps	768	422908	0.18159978056693182
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Salps	52	387650	0.01341416225977041
+Eukaryota	Hacrobia	Haptophyta	Other	ST_Non-Salps	20	422908	0.00472916095226385
+Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	Coastal SA_Salps	16475	317151	5.194686442735479
+Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	SA_Non-Salps	46218	387643	11.922825899087561
+Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	SA_Salps	42392	422943	10.023100039485227
+Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	ST_Non-Salps	30196	422908	7.14008720572796
+Eukaryota	Hacrobia	Haptophyta	Prymnesiophyceae	ST_Salps	34399	387650	8.873726299496969
+Eukaryota	Hacrobia	Katablepharidophyta	Other	Coastal SA_Salps	655	317151	0.20652622883106153
+Eukaryota	Hacrobia	Katablepharidophyta	Other	SA_Non-Salps	1907	387643	0.49194748776580516
+Eukaryota	Hacrobia	Katablepharidophyta	Other	SA_Salps	2966	422943	0.7012765313529247
+Eukaryota	Hacrobia	Katablepharidophyta	Other	ST_Non-Salps	1636	422908	0.38684536589518287
+Eukaryota	Hacrobia	Katablepharidophyta	Other	ST_Salps	1079	387650	0.27834386689023605
+Eukaryota	Hacrobia	Picozoa	Other	Coastal SA_Salps	2628	317151	0.8286273730809615
+Eukaryota	Hacrobia	Picozoa	Other	SA_Non-Salps	1404	387643	0.3621889212497066
+Eukaryota	Hacrobia	Picozoa	Other	SA_Salps	3909	422943	0.9242380178889354
+Eukaryota	Hacrobia	Picozoa	Other	ST_Non-Salps	2927	422908	0.6921127053638143
+Eukaryota	Hacrobia	Picozoa	Other	ST_Salps	7359	387650	1.898361924416355
+Eukaryota	Hacrobia	Telonemia	Other	Coastal SA_Salps	356	317151	0.11224937017382888
+Eukaryota	Hacrobia	Telonemia	Other	SA_Non-Salps	596	387643	0.15374971300913468
+Eukaryota	Hacrobia	Telonemia	Other	SA_Salps	1888	422943	0.446395850031801
+Eukaryota	Hacrobia	Telonemia	Other	ST_Non-Salps	2873	422908	0.6793439707927019
+Eukaryota	Hacrobia	Telonemia	Other	ST_Salps	2383	387650	0.6147297820198633
+Eukaryota	Opisthokonta	Choanoflagellida	Other	Coastal SA_Salps	1047	317151	0.33012665891010906
+Eukaryota	Opisthokonta	Choanoflagellida	Other	SA_Non-Salps	4213	387643	1.086824733066249
+Eukaryota	Opisthokonta	Choanoflagellida	Other	SA_Salps	970	422943	0.22934532549303333
+Eukaryota	Opisthokonta	Choanoflagellida	Other	ST_Non-Salps	1890	422908	0.44690570998893375
+Eukaryota	Opisthokonta	Choanoflagellida	Other	ST_Salps	2007	387650	0.5177350702953695
+Eukaryota	Opisthokonta	Choanoflagellida	Other	Coastal SA_Salps	69	317151	0.02175619815166908
+Eukaryota	Opisthokonta	Choanoflagellida	Other	SA_Non-Salps	270	387643	0.06965171562494357
+Eukaryota	Opisthokonta	Choanoflagellida	Other	SA_Salps	99	422943	0.023407409509082783
+Eukaryota	Opisthokonta	Choanoflagellida	Other	ST_Non-Salps	165	422908	0.03901557785617676
+Eukaryota	Opisthokonta	Choanoflagellida	Other	ST_Salps	537	387650	0.13852702179801366
+Eukaryota	Opisthokonta	Mesomycetozoa	Other	SA_Non-Salps	4	387643	0.0010318772685176825
+Eukaryota	Opisthokonta	Mesomycetozoa	Other	Coastal SA_Salps	57	317151	0.017972511516596196
+Eukaryota	Opisthokonta	Mesomycetozoa	Other	ST_Salps	292	387650	0.07532568038178769
+Eukaryota	Opisthokonta	Opisthokonta_X	Other	Coastal SA_Salps	1160	317151	0.3657563747237121
+Eukaryota	Opisthokonta	Opisthokonta_X	Other	SA_Non-Salps	412	387643	0.1062833586573213
+Eukaryota	Opisthokonta	Opisthokonta_X	Other	SA_Salps	318	422943	0.07518743660493257
+Eukaryota	Opisthokonta	Opisthokonta_X	Other	ST_Salps	47	387650	0.01212433896556172
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	3	317151	9.459216587682209e-4
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	128	317151	0.04035932410744409
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Non-Salps	2	387643	5.159386342588413e-4
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Salps	98	422943	0.023170971029193056
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Non-Salps	804	422908	0.19011227028100675
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Salps	127	387650	0.03276151167290081
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	11	317151	0.0034683794154834763
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Non-Salps	2	422908	4.729160952263849e-4
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	9	317151	0.0028377649763046625
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	7	317151	0.0022071505371258487
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Non-Salps	170	387643	0.04385478391200151
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Salps	137	422943	0.03239207174489234
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Non-Salps	68	422908	0.016079147237697086
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Salps	251	387650	0.0647491293692764
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	321	317151	0.10121361748819963
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Non-Salps	164	387643	0.04230696800922498
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Salps	273	422943	0.06454770500989496
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Non-Salps	113	422908	0.02671975938029075
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Salps	180	387650	0.04643363859151296
+Eukaryota	Rhizaria	Cercozoa	Other	Coastal SA_Salps	222	317151	0.06999820274884834
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Non-Salps	4	387643	0.0010318772685176825
+Eukaryota	Rhizaria	Cercozoa	Other	SA_Salps	505	422943	0.11940143234431116
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Non-Salps	529	422908	0.12508630718737881
+Eukaryota	Rhizaria	Cercozoa	Other	ST_Salps	143	387650	0.03688894621436863
+Eukaryota	Rhizaria	Radiolaria	Other	Coastal SA_Salps	3704	317151	1.1678979413591632
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Non-Salps	483	387643	0.12459918017351015
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Salps	2010	422943	0.4752413445783474
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Non-Salps	257	422908	0.06076971823659046
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Salps	396	387650	0.10215400490132852
+Eukaryota	Rhizaria	Radiolaria	Other	Coastal SA_Salps	590	317151	0.1860312595577501
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Non-Salps	454	387643	0.11711806997675696
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Salps	3153	422943	0.7454905270923031
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Non-Salps	157	422908	0.03712391347527122
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Salps	179	387650	0.046175673932671225
+Eukaryota	Rhizaria	Radiolaria	Other	Coastal SA_Salps	183	317151	0.05770122118486147
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Non-Salps	334	387643	0.08616175192122649
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Salps	595	422943	0.14068089553438645
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Non-Salps	1792	422908	0.4237328213228409
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Salps	507	387650	0.13078808203276152
+Eukaryota	Rhizaria	Radiolaria	Other	Coastal SA_Salps	335	317151	0.10562791856245132
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Non-Salps	5748	387643	1.4828076348599097
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Salps	11356	422943	2.6849953776277182
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Non-Salps	1082	422908	0.25584760751747426
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Salps	243	387650	0.06268541209854249
+Eukaryota	Rhizaria	Radiolaria	Other	Coastal SA_Salps	132	317151	0.041620552985801716
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Non-Salps	204	387643	0.05262574069440181
+Eukaryota	Rhizaria	Radiolaria	Other	SA_Salps	34	422943	0.008038908316250653
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Non-Salps	137	422908	0.032394752523007365
+Eukaryota	Rhizaria	Radiolaria	Other	ST_Salps	78	387650	0.020121243389655617
+Eukaryota	Stramenopiles	Ochrophyta	Bacillariophyta	Coastal SA_Salps	46431	317151	14.640029512755753
+Eukaryota	Stramenopiles	Ochrophyta	Bacillariophyta	SA_Non-Salps	3982	387643	1.027233820809353
+Eukaryota	Stramenopiles	Ochrophyta	Bacillariophyta	SA_Salps	46001	422943	10.876406513407243
+Eukaryota	Stramenopiles	Ochrophyta	Bacillariophyta	ST_Non-Salps	16144	422908	3.817378720667379
+Eukaryota	Stramenopiles	Ochrophyta	Bacillariophyta	ST_Salps	6978	387650	1.8000773893976525
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	1133	317151	0.3572430797947981
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Non-Salps	500	387643	0.1289846585647103
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Salps	996	422943	0.23549272597016618
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	225	422908	0.053203060712968306
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Salps	385	387650	0.0993163936540694
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	591	317151	0.18634656677733952
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Non-Salps	1815	387643	0.4682143105898985
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Salps	1539	422943	0.3638788205502869
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	899	422908	0.21257578480426004
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Salps	1370	387650	0.353411582613182
+Eukaryota	Stramenopiles	Ochrophyta	Dictyochophyceae	Coastal SA_Salps	3761	317151	1.1858704528757595
+Eukaryota	Stramenopiles	Ochrophyta	Dictyochophyceae	SA_Non-Salps	3719	387643	0.9593878904043153
+Eukaryota	Stramenopiles	Ochrophyta	Dictyochophyceae	SA_Salps	5172	422943	1.2228598179896581
+Eukaryota	Stramenopiles	Ochrophyta	Dictyochophyceae	ST_Non-Salps	4974	422908	1.1761423288280193
+Eukaryota	Stramenopiles	Ochrophyta	Dictyochophyceae	ST_Salps	5102	387650	1.3161356894105507
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	52	317151	0.01639597541864916
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Non-Salps	181	387643	0.046692446400425136
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Salps	115	422943	0.027190425187318387
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	723	422908	0.17095916842433814
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Salps	31	387650	0.0079969044240939
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	725	317151	0.22859773420232005
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Non-Salps	1421	387643	0.3665743996409067
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Salps	571	422943	0.13500637201703303
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	5146	422908	1.2168131130174886
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Salps	4869	387650	1.2560299239004256
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	59	317151	0.01860312595577501
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	40	422908	0.0094583219045277
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	78	422908	0.018443727713829013
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Salps	22	387650	0.005675222494518251
+Eukaryota	Stramenopiles	Ochrophyta	Pelagophyceae	Coastal SA_Salps	1542	317151	0.4862037326068655
+Eukaryota	Stramenopiles	Ochrophyta	Pelagophyceae	SA_Non-Salps	3763	387643	0.9707385403580099
+Eukaryota	Stramenopiles	Ochrophyta	Pelagophyceae	SA_Salps	14093	422943	3.332127497085896
+Eukaryota	Stramenopiles	Ochrophyta	Pelagophyceae	ST_Non-Salps	3716	422908	0.8786781049306231
+Eukaryota	Stramenopiles	Ochrophyta	Pelagophyceae	ST_Salps	92	387650	0.02373274861343996
+Eukaryota	Stramenopiles	Ochrophyta	Other	Coastal SA_Salps	13	317151	0.00409899385466229
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	7	422908	0.0016552063332923473
+Eukaryota	Stramenopiles	Ochrophyta	Other	SA_Salps	14	422943	0.003310138718456151
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	19	422908	0.004492702904650657
+Eukaryota	Stramenopiles	Ochrophyta	Other	ST_Non-Salps	28	422908	0.006620825333169389
+Eukaryota	Stramenopiles	Opalozoa	Other	SA_Non-Salps	3	387643	7.739079513882618e-4
+Eukaryota	Stramenopiles	Opalozoa	Other	ST_Salps	146	387650	0.037662840190893845
+Eukaryota	Stramenopiles	Opalozoa	Other	Coastal SA_Salps	6	317151	0.0018918433175364418
+Eukaryota	Stramenopiles	Opalozoa	Other	SA_Salps	4	422943	9.457539195589003e-4
+Eukaryota	Stramenopiles	Opalozoa	MAST-3	Coastal SA_Salps	2446	317151	0.7712414591156893
+Eukaryota	Stramenopiles	Opalozoa	MAST-3	SA_Non-Salps	5546	387643	1.4306978327997668
+Eukaryota	Stramenopiles	Opalozoa	MAST-3	SA_Salps	3376	422943	0.7982163081077119
+Eukaryota	Stramenopiles	Opalozoa	MAST-3	ST_Non-Salps	4219	422908	0.9976165028800591
+Eukaryota	Stramenopiles	Opalozoa	MAST-3	ST_Salps	3345	387650	0.8628917838256158
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Non-Salps	12	422908	0.0028374965713583097
+Eukaryota	Stramenopiles	Pseudofungi	Other	Coastal SA_Salps	1982	317151	0.6249389092262045
+Eukaryota	Stramenopiles	Pseudofungi	Other	SA_Non-Salps	1734	387643	0.44731879590241536
+Eukaryota	Stramenopiles	Pseudofungi	Other	SA_Salps	2843	422943	0.6721945983264884
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Non-Salps	1814	422908	0.42893489837033116
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Salps	2878	387650	0.742422288146524
+Eukaryota	Stramenopiles	Pseudofungi	Other	Coastal SA_Salps	66	317151	0.020810276492900858
+Eukaryota	Stramenopiles	Pseudofungi	Other	SA_Non-Salps	522	387643	0.13465998354155756
+Eukaryota	Stramenopiles	Pseudofungi	Other	SA_Salps	220	422943	0.052016465575739516
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Non-Salps	1239	422908	0.2929715209927455
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Salps	363	387650	0.09364117115955115
+Eukaryota	Stramenopiles	Pseudofungi	Other	Coastal SA_Salps	31	317151	0.009774523807271616
+Eukaryota	Stramenopiles	Pseudofungi	Other	SA_Salps	600	422943	0.14186308793383506
+Eukaryota	Stramenopiles	Pseudofungi	Other	ST_Non-Salps	28	422908	0.006620825333169389
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	366	317151	0.11540244236972294
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	86	387643	0.022185361273130175
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	66	422943	0.015604939672721856
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	181	422908	0.04279890661798783
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	162	387650	0.04179027473236167
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	77	317151	0.024278655908384333
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	66	387643	0.01702597493054176
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	54	422943	0.012767677914045155
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	292	422908	0.0690457499030522
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	266	387650	0.06861859925190249
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	2	422943	4.7287695977945015e-4
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	2	422908	4.729160952263849e-4
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	2373	317151	0.7482240320856626
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	549	387643	0.14162515510405194
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	1496	422943	0.35371196591502874
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	2509	422908	0.5932732414615
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	547	387650	0.14110666838643104
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	1690	317151	0.5328692011060977
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	317	387643	0.08177627353002634
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	2542	422943	0.6010266158796812
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	2059	422908	0.4868671200355633
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	588	387650	0.15168321939894233
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	33	317151	0.010405138246450429
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	79	387643	0.02037957605322423
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	90	422943	0.021279463190075256
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	166	422908	0.03925203590378995
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	99	387650	0.02553850122533213
+Eukaryota	Stramenopiles	Sagenista	Other	Coastal SA_Salps	49	317151	0.01545005375988094
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Non-Salps	71	387643	0.018315821516188865
+Eukaryota	Stramenopiles	Sagenista	Other	SA_Salps	272	422943	0.06431126653000523
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Non-Salps	97	422908	0.02293643061847967
+Eukaryota	Stramenopiles	Sagenista	Other	ST_Salps	19	387650	0.004901328517993035
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	SA_Salps	9	422943	0.0021279463190075256
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Non-Salps	96	422908	0.022699972570866478
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	Coastal SA_Salps	127	317151	0.04004401688785468
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Non-Salps	7	422908	0.0016552063332923473
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Salps	15	387650	0.0038694698826260802
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Salps	3	387650	7.738939765252159e-4
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	Coastal SA_Salps	271	317151	0.08544825650872928
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	SA_Non-Salps	113	387643	0.02915053283562453
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	SA_Salps	416	422943	0.09835840763412565
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Non-Salps	173	422908	0.040907242237082295
+Eukaryota	Stramenopiles	Stramenopiles_X	Other	ST_Salps	271	387650	0.06990842254611118
